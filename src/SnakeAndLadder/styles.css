@@ -1,0 +1,23 @@
+.Game {
+  font-family: sans-serif;
+  text-align: center;
+}
+td {
+  background-color: grey;
+  border: 1px solid black;
+  height: 50px;
+  width: 50px;
+}
+.diceButton {
+  width: 50px;
+  height: 50px;
+  margin-top: 30px;
+  background-color: yellow;
+}
+
+.snake {
+  background-color: red !important;
+}
+.ladder {
+  background-color: green !important;
+}
